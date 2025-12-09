@@ -1,7 +1,3 @@
-// src/utils/attempts.js
-// Lightweight localStorage-backed attempt counters used by demo UI.
-// Keys: "kyc_attempts" -> { uploadDoc: 0, selfie: 0, ... }
-
 const STORAGE_KEY = "kyc_attempts";
 
 function safeParse(v) {
@@ -30,11 +26,6 @@ export function incrementAttempt(name) {
   return attempts[name];
 }
 
-/**
- * resetAttempts()
- * - If called with no args -> clears all counters
- * - If called with a key name -> clears that single counter
- */
 export function resetAttempts(name) {
   if (typeof window === "undefined") return;
   if (!name) {
