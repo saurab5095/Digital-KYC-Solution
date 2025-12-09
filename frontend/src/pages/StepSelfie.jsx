@@ -1,4 +1,3 @@
-// src/pages/StepSelfie.jsx
 import React, { useRef, useState, useEffect, useCallback } from "react";
 import axios from "axios";
 import { getAttempts, incrementAttempt } from "../utils/attempts";
@@ -27,7 +26,6 @@ export default function StepSelfie({ onNext }) {
       if (capturedUrl) URL.revokeObjectURL(capturedUrl);
       stopCamera();
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const startCamera = useCallback(async (mode = "user") => {
@@ -67,7 +65,6 @@ export default function StepSelfie({ onNext }) {
       "Unable to access camera. Use 'Or upload photo' fallback or check browser permissions."
     );
     return null;
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const stopCamera = useCallback(() => {
