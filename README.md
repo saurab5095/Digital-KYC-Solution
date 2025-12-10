@@ -70,30 +70,29 @@ The prototype is split into a lightweight React frontend and a demo backend that
 
 ### Diagrams
 
-![Architecture diagram](hdfc-capstone-v1/docs/architecture.png)  
-![Data flow diagram](hdfc-capstone-v1/docs/data-flow.png)
+![Architecture diagram](docs/architecture.png)  
+![Data flow diagram](docs/data-flow.png)
 
 ## Demo / Screenshots
 
 Use these screenshots to quickly understand the flow without running the backend.
 
 ### Onboarding / Document UI
-![Document upload](hdfc-capstone-v1/screenshots/document-upload-pan.png)
-![Document validation pending](hdfc-capstone-v1/screenshots/document-validation-pending.png)
-![Duplicate document detected](hdfc-capstone-v1/screenshots/duplicate-document-detected.png)
-![Document type mismatch](hdfc-capstone-v1/screenshots/document-type-mismatch.png)
+![Document upload](screenshots/document-upload-pan.png)
+![Document validation pending](screenshots/document-validation-pending.png)
+![Duplicate document detected](screenshots/duplicate-document-detected.png)
+![Document type mismatch](screenshots/document-type-mismatch.png)
 
 ### Selfie UI
-![Selfie capture](hdfc-capstone-v1/screenshots/selfie-capture.png)
+![Selfie capture](screenshots/selfie-capture.png)
 
 ### Errors & guidance
-![Face mismatch error](hdfc-capstone-v1/screenshots/error-face-mismatch.png)
-![Low resolution error](hdfc-capstone-v1/screenshots/error-low-resolution.png)
-![Wrong document type error](hdfc-capstone-v1/screenshots/error-wrong-document-type.png)
+![Face mismatch error](screenshots/error-face-mismatch.png)
+![Low resolution error](screenshots/error-low-resolution.png)
+![Wrong document type error](screenshots/error-wrong-document-type.png)
 
 ### Success
-![KYC success](hdfc-capstone-v1/screenshots/kyc-success.png)
-
+![KYC success](screenshots/kyc-success.png)
 
 ## How to run (developer)
 
