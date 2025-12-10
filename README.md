@@ -80,14 +80,21 @@ Use these screenshots to quickly understand the flow without running the backend
 ### Onboarding / Document UI
 ![Document upload](screenshots/document-upload-pan.png)
 ![Document validation pending](screenshots/document-validation-pending.png)
+
+### Duplicate Document Detected
 ![Duplicate document detected](screenshots/duplicate-document-detected.png)
+
+### Document Type Not Matched
+### Choosen PAN Uploaded AADHAR
 ![Document type mismatch](screenshots/document-type-mismatch.png)
 
 ### Selfie UI
 ![Selfie capture](screenshots/selfie-capture.png)
 
-### Errors & guidance
+### Error Face Not Matched
 ![Face mismatch error](screenshots/error-face-mismatch.png)
+
+### Guidance Low Resolution 
 ![Low resolution error](screenshots/error-low-resolution.png)
 ![Wrong document type error](screenshots/error-wrong-document-type.png)
 
