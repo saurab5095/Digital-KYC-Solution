@@ -79,6 +79,7 @@ Use these screenshots to quickly understand the flow without running the backend
 
 ### Onboarding / Document UI
 ![Document upload](screenshots/document-upload-pan.png)
+### Validation Status
 ![Document validation pending](screenshots/document-validation-pending.png)
 
 ### Duplicate Document Detected
