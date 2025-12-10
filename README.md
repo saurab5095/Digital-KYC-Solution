@@ -147,14 +147,6 @@ Then refresh the app.
 
 To prepare your final submission branch (what HDFC reviewers will check):
 
-
-In the capstone submission form, include:
-
-- **GitHub repository URL:** `https://github.com/saurab5095/Digital-KYC-Solution`
-- **Branch:** `submission`
-- Your **Name**, **Email**, and a **Short description** of the project.
-- Optionally, attach a screenshot of the running app.
-
 ## API endpoints (demo)
 
 The backend exposes a small set of demo endpoints for KYC validation.
