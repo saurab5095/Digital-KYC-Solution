@@ -143,10 +143,6 @@ localStorage.clear();
 Then refresh the app.
 
 
-## GitHub submission (branch submission)
-
-To prepare your final submission branch (what HDFC reviewers will check):
-
 ## API endpoints (demo)
 
 The backend exposes a small set of demo endpoints for KYC validation.
