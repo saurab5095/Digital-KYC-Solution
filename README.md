@@ -82,11 +82,7 @@ Use these screenshots to quickly understand the flow without running the backend
 ### Validation Status
 ![Document validation pending](screenshots/document-validation-pending.png)
 
-### Duplicate Document Detected
-![Duplicate document detected](screenshots/duplicate-document-detected.png)
-
-### Document Type Not Matched
-### Choosen PAN Uploaded AADHAR
+### Document Type Not Matched Choosen PAN Uploaded AADHAR
 ![Document type mismatch](screenshots/document-type-mismatch.png)
 
 ### Selfie UI
@@ -98,6 +94,9 @@ Use these screenshots to quickly understand the flow without running the backend
 ### Guidance Low Resolution 
 ![Low resolution error](screenshots/error-low-resolution.png)
 ![Wrong document type error](screenshots/error-wrong-document-type.png)
+### Duplicate Document Detected
+![Duplicate document detected](screenshots/duplicate-document-detected.png)
+
 
 ### Success
 ![KYC success](screenshots/kyc-success.png)
